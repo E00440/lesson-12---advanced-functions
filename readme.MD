@@ -15,3 +15,16 @@ iv. callback function
 v. seteTimeout() and setInterval() which are asynchronous codes
 
 vi. .forEach()
+
+
+in the part 2, i learned the following:
+
+i. arrow functions
+
+ii. .addEventListeners()
+
+iii. .filter()
+
+iv. .map()
+
+v. closure
